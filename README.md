@@ -37,10 +37,12 @@ users previously. If it does then the app marks the spot as taken.
 Entities:
 - User
     - username
-    - location
     - sendLocation()
     - fetchParking()
     - refreshMap()
+- Location
+    - coordinates
+    - 
 - Parking Spot
     - isTaken
     - location
