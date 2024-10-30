@@ -14,6 +14,13 @@ To enter the Mariadb environment do:
 ```bash 
 mariadb
 ``` 
+To set the root user password do: 
+```bash
+sudo mariadb
+```
+```sql
+ALTER USER 'root'@'localhost' IDENTIFIED VIA mysql_native_password USING PASSWORD('new_password');
+```
 
 ### Fedora
 Installing MySQL on Fedora
