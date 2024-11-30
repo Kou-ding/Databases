@@ -2362,7 +2362,7 @@
 			<data key="d4">
 				<x:List>
 					<y:Label LayoutParameter="{y:GraphMLReference 8}">
-						<y:Label.Text>&lt;h2&gt;time_since_marked_vacant&lt;/h2&gt;</y:Label.Text>
+						<y:Label.Text>&lt;h2&gt;time_when_marked_vacant&lt;/h2&gt;</y:Label.Text>
 						<y:Label.Style>
 							<yjs:MarkupLabelStyle verticalTextAlignment="CENTER" horizontalTextAlignment="CENTER" textWrappingShape="ELLIPSE" font="{y:GraphMLReference 9}" textFill="WHITE"/>
 						</y:Label.Style>
