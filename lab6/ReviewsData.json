@@ -1,0 +1,10 @@
+{"_id": 1, "book_id": 1, "user_id": 1, "rating": 5, "comment": "Nice book overall!"}
+{"_id": 2, "book_id": 1, "user_id": 2, "rating": 4, "comment": "Interesting book"}
+{"_id": 3, "book_id": 3, "user_id": 1, "rating": 4}
+{"_id": 4, "book_id": 2, "user_id": 3, "rating": 4, "comment": "This is a good book"}
+{"_id": 5, "book_id": 4, "user_id": 4, "rating": 3, "comment": "It's mostly OK, but a little too long"}
+{"_id": 6, "book_id": 2, "user_id": 2, "rating": 5}
+{"_id": 7, "book_id": 2, "user_id": 3, "rating": 4, "comment": "I really liked the first half of the book!"}
+{"_id": 8, "book_id": 4, "user_id": 1, "rating": 5, "comment": "Excellent book, fascinating!"}
+{"_id": 9, "book_id": 5, "user_id": 6, "rating": 5}
+{"_id": 10, "book_id": 6, "user_id": 6, "rating": 4, "comment": "Very nice book"}
