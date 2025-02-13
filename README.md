@@ -21,7 +21,7 @@ mariadb
 ### Mongodb
 ```bash
 # Download mongodb and the gui interface of our choice (compass)
-yay -S mongodb-bin mongodb-compass
+yay -S mongodb-bin mongodb-compass mongodb-tools-bin
 
 # Enable and start the mongodb service
 sudo systemctl enable mongodb.service
